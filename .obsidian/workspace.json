@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "95276bde2b228405",
+    "type": "split",
+    "children": [
+      {
+        "id": "a62546f916cbcdd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a9713d2bc20d35a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciências da Computação/Fundamentos Matématicos/Equivalências Tautológicas (Parte III de Lógica) - Fundamentos Matemáticos para Computação.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfa959991788ad9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciências da Computação/Fundamentos Matématicos/Regras de Inferência.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a4ea717b7999412",
+    "type": "split",
+    "children": [
+      {
+        "id": "88d3c9473cfa7af8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df52db7b9cb7b31b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa27b49200c6bd75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94bc378306941c94",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51719a6fceb6be0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ab94333a6b76ece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "560a02967f41ee0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ciências da Computação/Fundamentos Matématicos/Regras de Inferência.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92a087feb1fbbaf0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ciências da Computação/Fundamentos Matématicos/Regras de Inferência.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec54c1c7e62d6167",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ea75fb5ebd357611",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ciências da Computação/Fundamentos Matématicos/Regras de Inferência.md"
+              }
+            }
+          },
+          {
+            "id": "fe62dedae07c20b6",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 480.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "audio-recorder:Start/stop recording": false,
+      "omnisearch:Omnisearch": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "bfa959991788ad9a",
+  "lastOpenFiles": [
+    "Ciências da Computação/Fundamentos Matématicos/Equivalências Tautológicas (Parte III de Lógica) - Fundamentos Matemáticos para Computação.md",
+    "Ciências da Computação/Fundamentos Matématicos/Regras de Inferência.md",
+    "Excalidraw/Equivalências Tautológicas (Parte III de Lógica) - Fundamentos Matemáticos para Computação 2023-04-04 22.51.42.excalidraw.md",
+    "Day Planners/Day Planner-20230404.md",
+    "Excalidraw/Drawing 2023-04-04 22.38.51.excalidraw.md",
+    "Excalidraw",
+    "Recording 20230404222521.webm",
+    "Recording 20230404222503.webm",
+    "2023-04-04.md"
+  ]
+}
