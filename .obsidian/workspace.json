@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bfa959991788ad9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciências da Computação/Fundamentos Matématicos/Regras de Inferência.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "51719a6fceb6be0c",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciências da Computação/Fundamentos Matématicos/Regras de Inferência.md",
+                "file": "Ciências da Computação/Fundamentos Matématicos/Equivalências Tautológicas (Parte III de Lógica) - Fundamentos Matemáticos para Computação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciências da Computação/Fundamentos Matématicos/Regras de Inferência.md",
+                "file": "Ciências da Computação/Fundamentos Matématicos/Equivalências Tautológicas (Parte III de Lógica) - Fundamentos Matemáticos para Computação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciências da Computação/Fundamentos Matématicos/Regras de Inferência.md"
+                "file": "Ciências da Computação/Fundamentos Matématicos/Equivalências Tautológicas (Parte III de Lógica) - Fundamentos Matemáticos para Computação.md"
               }
             }
           },
@@ -149,14 +137,21 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "9776d3613263f84e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 480.5,
-    "collapsed": true
+    "width": 480.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,10 +166,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "bfa959991788ad9a",
+  "active": "9a9713d2bc20d35a",
   "lastOpenFiles": [
-    "Ciências da Computação/Fundamentos Matématicos/Equivalências Tautológicas (Parte III de Lógica) - Fundamentos Matemáticos para Computação.md",
     "Ciências da Computação/Fundamentos Matématicos/Regras de Inferência.md",
+    "Ciências da Computação/Fundamentos Matématicos/Equivalências Tautológicas (Parte III de Lógica) - Fundamentos Matemáticos para Computação.md",
     "Excalidraw/Equivalências Tautológicas (Parte III de Lógica) - Fundamentos Matemáticos para Computação 2023-04-04 22.51.42.excalidraw.md",
     "Day Planners/Day Planner-20230404.md",
     "Excalidraw/Drawing 2023-04-04 22.38.51.excalidraw.md",
