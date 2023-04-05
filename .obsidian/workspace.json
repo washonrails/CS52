@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 328.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,7 +159,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "9776d3613263f84e",
+  "active": "df52db7b9cb7b31b",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20230404.md",
     "Day Planners/Day Planner-20230405.md",
