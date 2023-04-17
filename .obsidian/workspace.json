@@ -11,8 +11,12 @@
             "id": "9a9713d2bc20d35a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ciências da Computação/Fundamentos Matématicos/Regras de Inferência.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "220fa40bd247a921",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -82,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ciências da Computação/Fundamentos Matématicos/Regras de Inferência.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ciências da Computação/Fundamentos Matématicos/Regras de Inferência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ciências da Computação/Fundamentos Matématicos/Regras de Inferência.md"
+              }
             }
           },
           {
@@ -159,11 +175,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "df52db7b9cb7b31b",
+  "active": "9a9713d2bc20d35a",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230417.md",
+    "My block.md",
+    "Ciências da Computação/Fundamentos Matématicos/Regras de Inferência.md",
+    "a.mp3.webm",
+    "Untitled.md",
+    "Context/spacesLastSync.log",
+    "Context",
     "Day Planners/Day Planner-20230404.md",
     "Day Planners/Day Planner-20230405.md",
-    "Ciências da Computação/Fundamentos Matématicos/Regras de Inferência.md",
     "Ciências da Computação/Fundamentos Matématicos/Equivalências Tautológicas (Parte III de Lógica) - Fundamentos Matemáticos para Computação.md",
     "Excalidraw/Equivalências Tautológicas (Parte III de Lógica) - Fundamentos Matemáticos para Computação 2023-04-04 22.51.42.excalidraw.md",
     "Excalidraw/Drawing 2023-04-04 22.38.51.excalidraw.md",
